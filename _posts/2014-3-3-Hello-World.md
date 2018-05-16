@@ -5,7 +5,7 @@ title: An Introduction to Bitcoin and Cryptocurrency
 
 There is tremendous interest in the cryptocurrency space right now and equal parts confusion, uncertainty and doubt. Bitcoin, cryptocurrencies, blockchain, ICOs. What do these even mean? The natural response to these foreign concepts is usually skepticism and rejection, but beneath the jargon lies a powerful new technology revamping our financial system. (shown below).
 
-![btc](https://raw.github.com/queuecoin/queuecoin.github.io/master/images/btc.png)
+![btc](https://raw.github.com/queuecoin/queuecoin.github.io/master/images/btc.jepg)
 
 There is tremendous interest in the cryptocurrency space right now and equal parts confusion, uncertainty and doubt. Bitcoin, cryptocurrencies, blockchain, ICOs. What do these even mean? The natural response to these foreign concepts is usually skepticism and rejection, but beneath the jargon lies a powerful new technology revamping our financial system.
 
